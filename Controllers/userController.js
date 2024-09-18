@@ -1,4 +1,3 @@
-const { resetCache } = require('../../metro.config')
 const userSchema = require('../Models/userSchema')
 
 const signUp = async (req,res) =>{
