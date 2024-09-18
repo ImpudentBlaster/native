@@ -6,6 +6,7 @@ const userRoutes = require('./Routes/user-routes')
 const cors = require('cors')
 const todoRoutes = require('./Routes/todo-routes')
 
+//commit
 
 app.use(cors({
     origin: '*', // Allows all origins (you can specify the frontend URL instead)
